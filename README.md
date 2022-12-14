@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+https://github.com/docker/awesome-compose/tree/master/official-documentation-samples/rails/
